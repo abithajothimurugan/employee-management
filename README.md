@@ -76,7 +76,7 @@ Employee-Management-System
 ## Installation
 
 ### Clone the repository
-
+https://github.com/abithajothimurugan/employee-management
 
 ### Backend Setup
 
