@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial;
+    color: rgb(178, 179, 179);
+}
+ul {
+    list-style: none;
+}
